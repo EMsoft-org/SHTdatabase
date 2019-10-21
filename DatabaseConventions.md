@@ -3,7 +3,7 @@
 Pull requests will not be accepted unless the following conventions are followed
 
 * data stored as a *SHT file
-  * paper to be cited when file is used in DOI (or the DOI for this repository)
+  * paper to be cited when file is used in DOI (or the [DOI](https://doi.org/10.5281/zenodo.3515408) for this repository)
   * notes string should contain structure source information if possible (if different from DOI)
 * file naming convention: 'formula (material or phase name) [structure symbol] {comments}.sht' e.g. 'Mg2SiO4 (forsterite) [S1_2] {20kV}.sht'
   * formula is required
